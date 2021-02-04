@@ -1,5 +1,7 @@
 ﻿# About
 
+![screen](assets/nugetpackage1.png)
+
 Sample code sample for using NuGet package [KP.ExceptionHandling](https://www.nuget.org/packages/KP.ExceptionHandling) which provides an easy way to implement unhandled exception handling.
 
 # Requires

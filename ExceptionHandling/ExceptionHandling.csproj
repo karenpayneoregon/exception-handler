@@ -5,14 +5,15 @@
 	  <TargetFramework>net5.0</TargetFramework>
 	  <Description>Provides a class project to handle unhandled exceptions and logging for .NET 5 desktop projects</Description>
 	  <Copyright>Karen Payne</Copyright>
-	  <PackageProjectUrl>https://github.com/karenpayneoregon/csharp-features/tree/master/ExceptionHandling</PackageProjectUrl>
-	  <RepositoryUrl>https://github.com/karenpayneoregon/csharp-features/tree/master/ExceptionHandling</RepositoryUrl>
+	  <PackageProjectUrl>https://github.com/karenpayneoregon/exception-handler</PackageProjectUrl>
+	  <RepositoryUrl>https://github.com/karenpayneoregon/exception-handler</RepositoryUrl>
 	  <PackageReleaseNotes>C#, .NET5, Desktop,Exception handling</PackageReleaseNotes>
 	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	  <PackageId>KP.ExceptionHandling</PackageId>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
 	  <Version>1.0.1</Version>
 	  <PackageIcon>PackageImage.png</PackageIcon>
+	  <Authors>Karen Payne</Authors>
   </PropertyGroup>
 
   <ItemGroup>

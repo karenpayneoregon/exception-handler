@@ -6,6 +6,9 @@ Source and code sample for [KP.ExceptionHandling NuGet package](https://www.nuge
 
 ![screen](assets/nugetpackage1.png)
 
+
+![screen1](assets/Versions.png)
+
 ### Microsoft TechNet article
 https://social.technet.microsoft.com/wiki/contents/articles/54209.unhandled-runtime-exceptions-window-forms-c.aspx
 

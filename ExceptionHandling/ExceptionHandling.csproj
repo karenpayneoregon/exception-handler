@@ -11,7 +11,7 @@
 	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	  <PackageId>KP.ExceptionHandling</PackageId>
 	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
-	  <Version>1.0.1</Version>
+	  <Version>1.0.2</Version>
 	  <PackageIcon>PackageImage.png</PackageIcon>
 	  <Authors>Karen Payne</Authors>
   </PropertyGroup>

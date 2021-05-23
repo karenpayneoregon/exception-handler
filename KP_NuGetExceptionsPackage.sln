@@ -11,10 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "Except
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CB32ADA2-C7C0-45F9-AAF1-3929FBB093FA}"
 	ProjectSection(SolutionItems) = preProject
+		Information.txt = Information.txt
 		readme.md = readme.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B4D88F04-8E03-4D4C-82F5-31BB2DC7D175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{B4D88F04-8E03-4D4C-82F5-31BB2DC7D175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{77C1C0DA-E0A3-4B54-8E75-50059F22F668}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -34,6 +37,10 @@ Global
 		{B4D88F04-8E03-4D4C-82F5-31BB2DC7D175}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4D88F04-8E03-4D4C-82F5-31BB2DC7D175}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4D88F04-8E03-4D4C-82F5-31BB2DC7D175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C1C0DA-E0A3-4B54-8E75-50059F22F668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C1C0DA-E0A3-4B54-8E75-50059F22F668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C1C0DA-E0A3-4B54-8E75-50059F22F668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C1C0DA-E0A3-4B54-8E75-50059F22F668}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
